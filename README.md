@@ -1,9 +1,9 @@
 # INFSCI-2440_finalProject  
 
 Team member:
-- Jie Chen(jic115)
-- Yi Yang(yiy101)
-- John Song(chs342)
+- Jie Chen(jic115)  Build model
+- Yi Yang(yiy101)  Preprocessing Data
+- John Song(chs342)  demo UI and report
 
 
 ## Content  
